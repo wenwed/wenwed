@@ -2,7 +2,7 @@
 
 ### github stats
 
-![github stats](http://www.github-readme-stats.vercel.app/api?username=wenwed&show_icons=true)
+![github stats](http://github-readme-stats.vercel.app/api?username=wenwed&show_icons=true)
 
 <!--
 **wenwed/wenwed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
