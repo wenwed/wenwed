@@ -11,6 +11,6 @@ jobs:
     name: README
     runs-on: ubuntu-latest
     steps:
-      - uses: wenwed/wenwd@master
+      - uses: wenwed/wenwd@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
