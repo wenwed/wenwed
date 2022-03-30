@@ -11,6 +11,6 @@ jobs:
     name: README
     runs-on: windows-latest
     steps:
-      - uses: wenwed/wenwed@master
+      - uses: wenwed/README@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
