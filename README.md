@@ -1,8 +1,12 @@
-### Hi there 👋
-
 ### github stats
 
 ![github stats](http://github-readme-stats.vercel.app/api?username=wenwed&show_icons=true)
+
+### Weekly development breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--
 **wenwed/wenwed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
