@@ -1,4 +1,4 @@
-### github stats
+### Github stats
 
 ![github stats](http://github-readme-stats.vercel.app/api?username=wenwed&show_icons=true)
 
