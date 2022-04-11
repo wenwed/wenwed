@@ -7,7 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 03 April 2022 - To: 10 April 2022
+
+C++          11 mins         ██████████████████████▒░░   89.96 %
+JavaScript   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
