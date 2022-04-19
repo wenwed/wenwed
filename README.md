@@ -7,9 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2022 - To: 17 April 2022
+From: 11 April 2022 - To: 18 April 2022
 
-JavaScript   7 mins          █████████████████████████   100.00 %
+Java         25 mins         ███████████████████░░░░░░   76.52 %
+JavaScript   7 mins          ██████░░░░░░░░░░░░░░░░░░░   23.48 %
 ```
 
 <!--END_SECTION:waka-->
