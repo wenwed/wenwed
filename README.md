@@ -7,7 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 02 June 2022 - To: 09 June 2022
+
+C   37 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
